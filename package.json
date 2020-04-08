@@ -2,7 +2,7 @@
     "name": "frontend-development-extension-pack",
     "displayName": "Frontend Development Extension Pack",
     "description": "Some of the Extension I most use to help who wants Develop a FrontEnd",
-    "version": "0.0.2",
+    "version": "1.0.2",
     "publisher": "guilhermelis",
     "icon": "icon.png",
     "engines": {
